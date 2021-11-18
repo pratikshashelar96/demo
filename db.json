@@ -1,14 +1,116 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   'productList' : [
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1234',
+      'status': 'Processing',
+      'date': 1636521733
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1233',
+      'status': '85% Normal',
+      'date': 1636435333
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1235',
+      'status': '85% Normal',
+      'date': 1636348933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1236',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1237',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1238',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1239',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1230',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1231',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1232',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1211',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1232',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1266',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1243',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1264',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+    {
+      'productName': 'Onion',
+      'productImage': 'onion.png',
+      'lotNo': '#1277',
+      'status': '85% Normal',
+      'date': 1633666933
+    },
+  ]
 }
